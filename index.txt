@@ -1,3 +1,4 @@
+NCSS catalogs as of 2017-05-20 01:00:01 --> 93e0077dd869d8f4fd8972e0f0f1b92805bf9558
 NCSS catalogs as of 2017-05-19 01:00:00 --> 341387899b8deb93f23744def645a6a1708dfbdc
 NCSS catalogs as of 2017-05-18 01:00:00 --> 3ff8e8b646b1d99fe6a284c9fd0fc97e7d2975d4
 NCSS catalogs as of 2017-05-17 01:00:00 --> a6c7fbd479e5f6ea8b88fb07cf46ebf0e71aa081
