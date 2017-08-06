@@ -1,3 +1,4 @@
+NCSS catalogs as of 2017-08-05 01:00:00 --> adb0cc9f04ea279fcd8dad5caec6cb0b0e96a3c7
 NCSS catalogs as of 2017-08-04 01:00:01 --> 81723d782cc75625afd901b91d157ee7b4cd2471
 NCSS catalogs as of 2017-08-03 01:00:00 --> e8679c4b6fca75184d9ffa99b706f0a49346e73a
 NCSS catalogs as of 2017-08-02 01:00:01 --> d3badaf9765fd61c46342f5811fc72868a0651c8
