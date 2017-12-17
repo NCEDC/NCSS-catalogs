@@ -1,3 +1,4 @@
+NCSS catalogs as of 2017-12-16 01:00:00 --> dbd67aa20ca6240672777a208c644edc08c3a5d0
 NCSS catalogs as of 2017-12-15 01:00:00 --> 83ec16c4218fbf244cf21e7d30e549b7da75aa22
 NCSS catalogs as of 2017-12-14 01:00:00 --> 0c4747d3da8c10999f2f79dc73a182c45614a8c6
 NCSS catalogs as of 2017-12-13 01:00:01 --> 25f855bf89b43d894d2c0a7f7e31c9cdd2dc0777
