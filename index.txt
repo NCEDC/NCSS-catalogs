@@ -1,3 +1,4 @@
+NCSS catalogs as of 2018-01-02 01:00:01 --> a50210192858c463ce1769e43f1e90cb5ee1ba02
 NCSS catalogs as of 2018-01-01 01:00:00 --> e7676985d9e91da6d085bbca1e9bc3198ac86d7b
 NCSS catalogs as of 2017-12-31 01:00:01 --> 7a38d7dde8a7680e80e8dc476c7000e4a7f405c1
 NCSS catalogs as of 2017-12-30 01:00:00 --> 27b0a6d865f035d033bbe1abaf5841aad194aeb4
