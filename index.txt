@@ -1,3 +1,4 @@
+NCSS catalogs as of 2018-04-13 01:00:00 --> bfaaa5103b16f49721ab3855be43fdea72dd01c2
 NCSS catalogs as of 2018-04-12 01:00:00 --> fe282f1b2bbfb4d1120e4ebbea8edc15deae0d96
 NCSS catalogs as of 2018-04-11 01:00:00 --> 2be64e3f17de396f58c2e7dc985b383fff2861f6
 NCSS catalogs as of 2018-04-10 01:00:01 --> 469a4251c0f999be8fc988c528483f4a9baadb5d
