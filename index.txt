@@ -1,3 +1,4 @@
+NCSS catalogs as of 2019-06-26 01:00:00 --> 388a0f8739c1e1ec1be35c18f586551b2a4abc72
 NCSS catalogs as of 2019-06-25 01:00:00 --> 6054ea558376a6e1eb4b55a81f82eb25aaf4da5c
 NCSS catalogs as of 2019-06-24 01:00:00 --> 3b442e8482531c8e2f4459ae2ee6697dbbf8f73e
 NCSS catalogs as of 2019-06-23 01:00:00 --> bd86eda959b675a478e504d95fd4eb7f5b3340e5
