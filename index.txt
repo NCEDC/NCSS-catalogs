@@ -1,3 +1,4 @@
+NCSS catalogs as of 2019-11-01 01:00:00 --> b7d0de114c67d146b9787d3315e1ac6e7937dd48
 NCSS catalogs as of 2019-10-31 01:00:00 --> 313a37f7dc73104fab24aeec8b11a85186e2ae43
 NCSS catalogs as of 2019-10-30 01:00:01 --> d557b3414231e02f6ca1dde8aafecc39a8c5e543
 NCSS catalogs as of 2019-10-29 01:00:00 --> 2f7e716620452193a815bc12c03d80ce16cd5163
