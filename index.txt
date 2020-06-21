@@ -1,3 +1,4 @@
+NCSS catalogs as of 2020-06-20 01:00:01 --> bcc28dd81a754b9084ed9553a88662e97d80d306
 NCSS catalogs as of 2020-06-19 01:00:01 --> 5ee7e66a9d5e01e7736946a0e66fe496b87cff7a
 NCSS catalogs as of 2020-06-18 01:00:01 --> 636e3ef4e66677c2c969466181e4eca2a9adc063
 NCSS catalogs as of 2020-06-17 01:00:01 --> 2b744defd58d1b26180e1851d7c1fd8d220a019c
